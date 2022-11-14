@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+}
+
+body{
+    background-color: #dddddd;
+    /* display: inline-block; */
+}
+
+
+.left{
+    background-color: red;
+    display: inline-block;
+    width: 50%;
+
+}
+
+.right{
+    background-color: green;
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
